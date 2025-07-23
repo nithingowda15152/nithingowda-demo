@@ -1,3 +1,4 @@
 # nithingowda-demo
-This is my first Repositary
-Author:-Nithin KV
+This is my first Repositary.
+<br>
+Author -Nithin KV
